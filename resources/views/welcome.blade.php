@@ -7,7 +7,7 @@
       <div class="col-lg-10">
         <div class="row mb-5">
           <div class="col-lg-7 intro">
-            <h1><strong>Hire a car</strong> is within your finger tips.</h1>
+            <h1><strong>Hire a car</strong> is within your reach.</h1>
           </div>
         </div>
         <form class="trip-form" method="POST" action="{{ route('searchCar.index') }}">
